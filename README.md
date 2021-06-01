@@ -1,3 +1,3 @@
 # Resources_Azure
 
-Miscorsoft Ninja Training
+Microsoft Ninja Training
